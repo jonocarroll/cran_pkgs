@@ -1,4 +1,4 @@
-name: Check CRAN status
+name: Check ggeasy CRAN status
 
 on:
   schedule:

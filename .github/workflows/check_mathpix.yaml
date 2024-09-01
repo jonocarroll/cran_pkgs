@@ -1,4 +1,4 @@
-name: Check CRAN status
+name: Check mathpix CRAN status
 
 on:
   schedule:
