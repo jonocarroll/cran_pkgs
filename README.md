@@ -10,9 +10,9 @@
 
 | CRAN Package | version / status | check status |
 | :----------: | :--------------: | :----------: |
-| [{ggeasy}](https://cran.r-project.org/package=ggeasy) | ![](https://www.r-pkg.org/badges/version/ggeasy) | ![](https://github.com/jonocarroll/cran_pkgs/actions/workflows/check_ggeasy.yaml/badge.svg) |
-| [{ggghost}](https://cran.r-project.org/package=ggghost) | ![](https://www.r-pkg.org/badges/version/ggghost) | | ![](https://github.com/jonocarroll/cran_pkgs/actions/workflows/check_ggghost.yaml/badge.svg) |
-| [{mathpix}](https://cran.r-project.org/package=mathpix) | ![](https://www.r-pkg.org/badges/version/mathpix) | | ![](https://github.com/jonocarroll/cran_pkgs/actions/workflows/check_mathpix.yaml/badge.svg) |
+| [{ggeasy}](https://cran.r-project.org/package=ggeasy)   | ![](https://www.r-pkg.org/badges/version/ggeasy)  | ![](https://github.com/jonocarroll/cran_pkgs/actions/workflows/check_ggeasy.yaml/badge.svg) |
+| [{ggghost}](https://cran.r-project.org/package=ggghost) | ![](https://www.r-pkg.org/badges/version/ggghost) | ![](https://github.com/jonocarroll/cran_pkgs/actions/workflows/check_ggghost.yaml/badge.svg) |
+| [{mathpix}](https://cran.r-project.org/package=mathpix) | ![](https://www.r-pkg.org/badges/version/mathpix) | ![](https://github.com/jonocarroll/cran_pkgs/actions/workflows/check_mathpix.yaml/badge.svg) |
 
 <details>
   <summary>Find all maintained packages</summary>
