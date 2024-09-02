@@ -8,9 +8,11 @@
 
 [GitHub Actions](https://github.com/jonocarroll/cran_pkgs/actions) is used to check the CRAN checks status for all of my packages
 
-- [{ggeasy}](https://cran.r-project.org/package=ggeasy)
-- [{ggghost}](https://cran.r-project.org/package=ggghost)
-- [{mathpix}](https://cran.r-project.org/package=mathpix)
+| CRAN Package | version / status | check status |
+| :----------: | :--------------: | :----------: |
+| [{ggeasy}](https://cran.r-project.org/package=ggeasy) | ![](https://www.r-pkg.org/badges/version/ggeasy) | ![](https://github.com/jonocarroll/cran_pkgs/actions/workflows/check_ggeasy.yaml/badge.svg) |
+| [{ggghost}](https://cran.r-project.org/package=ggghost) | ![](https://www.r-pkg.org/badges/version/ggghost) | | ![](https://github.com/jonocarroll/cran_pkgs/actions/workflows/check_ggghost.yaml/badge.svg) |
+| [{mathpix}](https://cran.r-project.org/package=mathpix) | ![](https://www.r-pkg.org/badges/version/mathpix) | | ![](https://github.com/jonocarroll/cran_pkgs/actions/workflows/check_mathpix.yaml/badge.svg) |
 
 <details>
   <summary>Find all maintained packages</summary>
@@ -30,14 +32,16 @@ package_network$nodes |>
 
 I have contributed to these, but I am not the maintainer
 
-- [{datapasta}](https://cran.r-project.org/package=datapasta)
-- [{weatherOz}](https://cran.r-project.org/package=weatherOz)
-- [{remedy}](https://cran.r-project.org/package=remedy)
-- [{csvy}](https://cran.r-project.org/package=csvy)
-- [{tidyRSS}](https://cran.r-project.org/package=tidyRSS)
-- [{wakefield}](https://cran.r-project.org/package=wakefield)
-- [{chessR}](https://cran.r-project.org/package=chessR) (archived)
-- [{bomrang}](https://cran.r-project.org/package=bomrang) (archived)
+| CRAN Package | version / status | 
+| :----------: | :--------------: | 
+| [{datapasta}](https://cran.r-project.org/package=datapasta) | ![](https://www.r-pkg.org/badges/version/datapasta) |
+| [{weatherOz}](https://cran.r-project.org/package=weatherOz) | ![](https://www.r-pkg.org/badges/version/weatherOz) |
+| [{remedy}](https://cran.r-project.org/package=remedy) | ![](https://www.r-pkg.org/badges/version/remedy) |
+| [{csvy}](https://cran.r-project.org/package=csvy) | ![](https://www.r-pkg.org/badges/version/csvy) |
+| [{tidyRSS}](https://cran.r-project.org/package=tidyRSS) | ![](https://www.r-pkg.org/badges/version/tidyRSS) |
+| [{wakefield}](https://cran.r-project.org/package=wakefield) | ![](https://www.r-pkg.org/badges/version/wakefield) |
+| [{chessR}](https://cran.r-project.org/package=chessR) (archived) | ![](https://www.r-pkg.org/badges/version/chessR) |
+| [{bomrang}](https://cran.r-project.org/package=bomrang) (archived) | ![](https://www.r-pkg.org/badges/version/bomrang) |
 
 <details>
   <summary>Find all contributions</summary>
