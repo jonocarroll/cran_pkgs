@@ -6,7 +6,7 @@
 
 ## CRAN Packages for which I am the maintainer
 
-GitHub Actions is used to check the CRAN checks status for all of my packages
+[GitHub Actions](https://github.com/jonocarroll/cran_pkgs/actions) is used to check the CRAN checks status for all of my packages
 
 - [{ggeasy}](https://cran.r-project.org/package=ggeasy)
 - [{ggghost}](https://cran.r-project.org/package=ggghost)
