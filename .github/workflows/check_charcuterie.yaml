@@ -1,9 +1,9 @@
-name: Check ggghost CRAN status
+name: Check charcuterie CRAN status
 
 on:
   schedule:
-    # Runs daily at 6:00 PM UTC
-    - cron: '0 18 * * *'  
+    # Runs daily at 7:00 PM UTC
+    - cron: '0 19 * * *'  
   # allows for manually running of the check
   workflow_dispatch:
 
@@ -15,4 +15,4 @@ jobs:
       - name: Get CRAN checks
         uses: flrsh-dev/cran-checks/check-pkg@main
         with:
-          pkg: ggghost
+          pkg: charcuterie

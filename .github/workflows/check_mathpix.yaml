@@ -2,7 +2,7 @@ name: Check mathpix CRAN status
 
 on:
   schedule:
-    # Runs daily at 5:00 PM UTC (9:00 AM PST)
+    # Runs daily at 5:00 PM UTC
     - cron: '0 17 * * *'  
   # allows for manually running of the check
   workflow_dispatch:
